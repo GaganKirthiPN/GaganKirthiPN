@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,45:24283B,100:414868&height=200&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=42&fontColor=C0CAF5&fontAlignY=37&desc=MIDNIGHT%20ENGINEERING%20%20%E2%80%A2%20%20CREATIVE%20UNIVERSE&descSize=13&descAlignY=61&descColor=7DCFFF" width="100%" alt="Gagan Kirthi P N — Midnight Engineering, Creative Universe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,45:24283B,100:414868&height=200&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=42&fontColor=C0CAF5&fontAlignY=37" width="100%" alt="Gagan Kirthi P N — Midnight Engineering, Creative Universe"/>
 
 ### Engineer&nbsp; · &nbsp;Builder&nbsp; · &nbsp;Creative Thinker
 
