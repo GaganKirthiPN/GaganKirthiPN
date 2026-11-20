@@ -1,119 +1,90 @@
-<!-- Gagan Kirthi P N | Engineering • Embedded Systems • Creative Technology -->
+<!-- Gagan Kirthi P N | Midnight Engineering • Creative Universe -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:2563EB,100:16324F&height=190&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEER%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20CREATIVE%20THINKER&descSize=13&descAlignY=61&descColor=E0F2FE" width="100%" alt="Gagan Kirthi P N — Engineer, Builder, Creative Thinker"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,45:24283B,100:414868&height=200&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=42&fontColor=C0CAF5&fontAlignY=37&desc=MIDNIGHT%20ENGINEERING%20%20%E2%80%A2%20%20CREATIVE%20UNIVERSE&descSize=13&descAlignY=61&descColor=7DCFFF" width="100%" alt="Gagan Kirthi P N — Midnight Engineering, Creative Universe"/>
 
-### Electrical & Electronics Engineer | Embedded Systems | IoT
+### Engineer&nbsp; · &nbsp;Builder&nbsp; · &nbsp;Creative Thinker
 
-*Turning ideas into practical systems — and concepts into experiences.*
+**Electrical & Electronics Engineering** | Embedded Systems | IoT
 
-I’m interested in the space where **electronics, embedded technology and creative problem-solving** meet. I enjoy understanding how things work, building prototypes, exploring new tools and presenting ideas with purpose.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://gagankirthipn-portfoliogithubio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagankirthipn)
-[![Email](https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagankirthi2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1A1B26)](https://gagankirthipn-portfoliogithubio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/gagankirthipn)
+[![Email](https://img.shields.io/badge/Email-9ECE6A?style=for-the-badge&logo=gmail&logoColor=1A1B26)](mailto:gagankirthi2004@gmail.com)
 
 </div>
 
 ---
 
-## About
+###  About me
 
-I’m a 2026 Electrical & Electronics Engineering graduate with an honours degree, drawn to practical engineering and continuous learning.
+An Electrical & Electronics Engineering graduate (2026) with an honours degree. Interested in building at the intersection of **electronics, embedded systems, IoT and creative technology**.
 
-- **Engineering:** Embedded systems, electronics, IoT, automation and electrical systems.
-- **Building:** Microcontroller-based prototypes, sensor integration and hardware–software projects.
-- **Creative work:** Concept development, visual design and AI-assisted web experiences.
-- **Currently exploring:** Linux, SQL, Python for data analysis and Power BI.
+- ⚡ Embedded systems, microcontrollers and electronics
+- 🛠️ Hardware prototyping, sensor integration and testing
+- ✦ Creative web concepts and AI-assisted development
+- 🌱 Exploring Linux, SQL, data analysis and Power BI
 
-I value curiosity, clear thinking and learning by building.
+### Tech stack
 
-## Technical toolkit
+**Languages & Web**
 
-**Programming & web**
+![C](https://img.shields.io/badge/C-7AA2F7?style=flat-square&logo=c&logoColor=1A1B26)
+![Embedded C](https://img.shields.io/badge/Embedded_C-7AA2F7?style=flat-square&logo=c&logoColor=1A1B26)
+![Python](https://img.shields.io/badge/Python-7DCFFF?style=flat-square&logo=python&logoColor=1A1B26)
+![HTML5](https://img.shields.io/badge/HTML5-F7768E?style=flat-square&logo=html5&logoColor=1A1B26)
+![CSS3](https://img.shields.io/badge/CSS3-7AA2F7?style=flat-square&logo=css3&logoColor=1A1B26)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=flat-square&logo=javascript&logoColor=1A1B26)
 
-![C](https://img.shields.io/badge/C-1D4ED8?style=flat-square&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-1E40AF?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E65A35?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-BB8A00?style=flat-square&logo=javascript&logoColor=white)
+**Embedded & Engineering**
 
-**Embedded & electronics**
+![Arduino](https://img.shields.io/badge/Arduino-9ECE6A?style=flat-square&logo=arduino&logoColor=1A1B26)
+![ESP32](https://img.shields.io/badge/ESP32-9ECE6A?style=flat-square&logo=espressif&logoColor=1A1B26)
+![ESP8266](https://img.shields.io/badge/ESP8266-9ECE6A?style=flat-square&logo=espressif&logoColor=1A1B26)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-7DCFFF?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-7AA2F7?style=flat-square&logo=mathworks&logoColor=1A1B26)
+![Proteus](https://img.shields.io/badge/Proteus-BB9AF7?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-BB9AF7?style=flat-square)
 
-![Arduino](https://img.shields.io/badge/Arduino-0F766E?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-0F766E?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-0F766E?style=flat-square&logo=espressif&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0E7490?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-2563EB?style=flat-square&logo=mathworks&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-334155?style=flat-square)
-![Keil](https://img.shields.io/badge/Keil-334155?style=flat-square)
+**Tools**
 
-**Tools & workflow**
+![Git](https://img.shields.io/badge/Git-F7768E?style=flat-square&logo=git&logoColor=1A1B26)
+![GitHub](https://img.shields.io/badge/GitHub-C0CAF5?style=flat-square&logo=github&logoColor=1A1B26)
+![VS Code](https://img.shields.io/badge/VS_Code-7DCFFF?style=flat-square&logo=visualstudiocode&logoColor=1A1B26)
+![Vercel](https://img.shields.io/badge/Vercel-C0CAF5?style=flat-square&logo=vercel&logoColor=1A1B26)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2563EB?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-334155?style=flat-square&logo=vercel&logoColor=white)
+### Featured projects
 
-<sub>Also exploring: Linux · SQL · Data Analysis · Power BI · AI/ML fundamentals</sub>
+| Project | Focus |
+|:--|:--|
+| **Digital Spirometer & Manometer** | Respiratory monitoring · Sensors · Microcontrollers |
+| **IoT Diesel Generator Monitoring** | ESP8266 · Power monitoring · ThingSpeak |
+| **Soldier Health Monitoring** | Wearable prototype · Vital sensing · SOS alert |
+| **Solar Smart Irrigation** | Arduino · Soil moisture · Bluetooth |
+| **Creative Engineering Portfolio** | Visual concept · HTML · CSS · JavaScript |
 
-## Selected projects
+**Research:** *Diesel Generator (D.G) Monitoring Using IoT for Vulnerability Assessment* — presented at IC3MLA 2025.
 
-### 01. Digital Spirometer & Manometer
-A respiratory-monitoring prototype combining pressure sensing and microcontrollers, with sensor-data analysis using MATLAB.
+### Experience
 
-<sub>Arduino Nano · ESP8266 · Pressure Sensors · MATLAB</sub>
+- **Testing & Commissioning Trainee** — Micron Electricals, Bengaluru
+- **Academic Intern** — Kirloskar Electric Company, Mysuru
 
-### 02. IoT-Based Diesel Generator Monitoring
-An ESP8266-based system to monitor generator and KEB supply status and send readings to ThingSpeak.
+### Education & leadership
 
-**Research paper:** *Diesel Generator (D.G) Monitoring Using IoT for Vulnerability Assessment* — presented at IC3MLA 2025.
+**B.E. Electrical & Electronics Engineering** — ATME College of Engineering, Mysuru  
+**B.E. (Honours) Electrical & Electronics Engineering** — VTU Centre of Excellence, Belagavi
 
-<sub>Embedded C · ESP8266 · ZMPT101B · ThingSpeak</sub>
+Former IEEE Student Branch Treasurer · Former Vice President, ElectroVision
 
-### 03. Soldier Health Monitoring — Hackathon Prototype
-A wearable health-monitoring prototype developed during an 8-hour hackathon, featuring vital-sign sensing, display and SOS alert functions. GPS tracking was explored as a project extension.
-
-<sub>ESP8266 · Sensors · OLED · IoT</sub>
-
-### 04. Solar-Powered Smart Irrigation
-A prototype for soil-moisture-based irrigation using Arduino and Bluetooth monitoring.
-
-<sub>Arduino UNO · Soil Moisture Sensor · Bluetooth</sub>
-
-### 05. Creative Engineering Portfolio
-A space-inspired personal portfolio shaped around my own concept, visual direction and project storytelling. Built with HTML, CSS and JavaScript, with AI-assisted development.
-
-[Explore the live portfolio →](https://gagankirthipn-portfoliogithubio.vercel.app/)
-
-## Experience
-
-**Testing & Commissioning Trainee — Micron Electricals, Bengaluru**
-
-Exposure to electrical testing and site activities, including RCD testing, loop and earthing measurements, insulation checks, breaker and panel operations, BMS trip testing and single-line diagram interpretation.
-
-**Academic Intern — Kirloskar Electric Company, Mysuru**
-
-Academic exposure to transformer manufacturing, switchgear and industrial electrical systems.
-
-## Education & leadership
-
-**B.E. — Electrical & Electronics Engineering**  
-ATME College of Engineering, Mysuru · 2022–2026
-
-**B.E. (Honours) — Electrical & Electronics Engineering**  
-VTU Centre of Excellence, Belagavi · 2024–2026
-
-Former **IEEE Student Branch Treasurer** and **Vice President of ElectroVision**, the student technical club.
-
-## GitHub activity
+### GitHub stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F766E&icon_color=2563EB&text_color=64748B" alt="GitHub statistics"/>
-<img height="160" src="https://streak-stats.demolab.com?user=GaganKirthiPN&hide_border=true&background=00000000&ring=0F766E&fire=2563EB&currStreakLabel=0F766E" alt="GitHub contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&hide_border=true&bg_color=1A1B26&title_color=7DCFFF&icon_color=9ECE6A&text_color=C0CAF5" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=GaganKirthiPN&hide_border=true&background=1A1B26&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF&sideLabels=C0CAF5&dates=565F89" alt="GitHub streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganKirthiPN&layout=compact&hide_border=true&bg_color=1A1B26&title_color=7DCFFF&text_color=C0CAF5" alt="Top languages"/>
 
 </div>
 
@@ -121,12 +92,12 @@ Former **IEEE Student Branch Treasurer** and **Vice President of ElectroVision**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:2563EB,100:16324F&height=3&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DCFFF,50:BB9AF7,100:1A1B26&height=3&section=footer" width="100%" alt=""/>
 
-### Build with purpose. Learn continuously. Create something meaningful.
+**Build beyond boundaries. Keep exploring.**
 
 [Portfolio](https://gagankirthipn-portfoliogithubio.vercel.app/) · [LinkedIn](https://linkedin.com/in/gagankirthipn) · [Email](mailto:gagankirthi2004@gmail.com)
 
-[![Support via PayPal](https://img.shields.io/badge/Support_via_PayPal-2563EB?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/GKPN)
+[![PayPal](https://img.shields.io/badge/Support_via_PayPal-7AA2F7?style=flat-square&logo=paypal&logoColor=1A1B26)](https://paypal.me/GKPN)
 
 </div>
