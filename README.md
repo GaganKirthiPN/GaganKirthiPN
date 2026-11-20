@@ -1,84 +1,25 @@
-<div align="center">
+# 💫 About Me:
+🎓 B.E. (Honors) in Electrical & Electronics Engineering — 2026 graduate.<br><br>🔌 Interested in Embedded Systems, Electronics, IoT and R&D.<br><br>⚙️ Exploring microcontrollers, hardware interfacing and electronic system design.<br><br>💻 Working with C, Embedded C and Python.<br><br>🐧 Currently learning Linux and SQL.<br><br>📊 Planning to explore Power BI, Data Analytics and related technologies.<br><br>🤖 Interested in understanding AI and its applications across engineering and technology.<br><br>📄 Presented a research paper at IC3MLA 2025.<br><br>💡 Enjoy building projects, experimenting with new ideas and learning across technical domains.
 
-<img src="./banner.svg" width="100%" alt="Gagan Kirthi P N — Electrical & Electronics Engineer"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagankirthipn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gagankirthi) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gagankirthi2004@gmail.com)
 
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Connect with me. 🤝
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GaganKirthiPN&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GaganKirthiPN&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GaganKirthiPN&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GaganKirthiPN&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="https://gagankirthipn-portfoliogithubio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Website"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/gagankirthipn"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://youtube.com/@gagankirthi"><img src="https://skillicons.dev/icons?i=youtube" height="48" alt="YouTube"/></a>&nbsp;&nbsp;
-<a href="mailto:gagankirthi2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>
+---
 
-<sub>🌐 Website &nbsp;·&nbsp; LinkedIn &nbsp;·&nbsp; YouTube &nbsp;·&nbsp; Email</sub>
+[![](https://komarev.com/ghpvc/?username=GaganKirthiPN&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-## About Me. 😊
-
-<table width="100%">
-<tr>
-<td valign="top">
-
-- 🎓 B.E. (Honors) in **Electrical & Electronics Engineering**, 2026 graduate.
-- 🔌 Interested in **Embedded Systems, Electronics, IoT and R&D**.
-- ⚙️ Exploring microcontrollers, hardware interfacing and electronic system design.
-- 💻 Working with **C, Embedded C and Python**.
-- 🐧 Currently learning **Linux and SQL**.
-- 📊 Planning to explore **Power BI, Data Analytics** and related technologies.
-- 🤖 Interested in understanding **AI** and its applications across engineering and technology.
-- 📄 Presented a research paper at **IC3MLA 2025**.
-- 💡 Enjoy building projects, experimenting with new ideas and learning across technical domains.
-
-</td>
-<td align="center" valign="middle" width="260">
-
-<img src="./Neon_Tech_Workspace_Pose_Animation.gif" width="240" alt="Gagan Kirthi P N"/>
-
-</td>
-</tr>
-</table>
-
-## Languages and Tools. 🛠️
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,py,html,css,js,arduino,raspberrypi,git,github,vercel,powerbi&perline=11" alt="Languages and tools"/>
-
-<br/><br/>
-
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-learning-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
-## Stats. 📊
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=GaganKirthiPN&theme=synthwave&hide_border=true" alt="GitHub streak"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub stats"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganKirthiPN&layout=compact&theme=synthwave&hide_border=true" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GaganKirthiPN&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies"/>
-
-<br/>
-
-[![Profile views](https://komarev.com/ghpvc/?username=GaganKirthiPN&color=24C6DC&style=flat-square&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
-
-### 💰 You can help me by donating
-
+## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GKPN)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
