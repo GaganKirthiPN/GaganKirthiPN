@@ -1,133 +1,119 @@
-<!--
-  Gagan Kirthi P N | Profile README
-  Inspired by the visual language of my portfolio:
-  midnight navy, electric blue, mint signals and warm gold details.
--->
+<!-- Gagan Kirthi P N | Engineering • Embedded Systems • Creative Technology -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:142B4A,100:312E81&height=200&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=43&fontColor=F1F5FF&fontAlignY=37&desc=ENGINEER%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20CREATIVE%20THINKER&descSize=13&descAlignY=60&descColor=75D9F5" width="100%" alt="Gagan Kirthi P N — Engineer, Builder, Creative Thinker"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:2563EB,100:16324F&height=190&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEER%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20CREATIVE%20THINKER&descSize=13&descAlignY=61&descColor=E0F2FE" width="100%" alt="Gagan Kirthi P N — Engineer, Builder, Creative Thinker"/>
 
-### Electrical & Electronics Engineer · Embedded Systems · IoT · Creative Web Building
+### Electrical & Electronics Engineer | Embedded Systems | IoT
 
-*“Fresher by title. Builder by habit.”*
+*Turning ideas into practical systems — and concepts into experiences.*
 
-I enjoy connecting ideas with real-world engineering — from microcontroller-based prototypes and electrical systems to creative digital experiences.
+I’m interested in the space where **electronics, embedded technology and creative problem-solving** meet. I enjoy understanding how things work, building prototypes, exploring new tools and presenting ideas with purpose.
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE-PORTFOLIO-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://gagankirthipn-portfoliogithubio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagankirthipn)
-[![Email](https://img.shields.io/badge/SAY_HELLO-EMAIL-34D399?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:gagankirthi2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://gagankirthipn-portfoliogithubio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagankirthipn)
+[![Email](https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagankirthi2004@gmail.com)
 
 </div>
 
 ---
 
-## 01 / The person behind the projects
+## About
 
-| ⚡ ENGINEER | 🛠️ BUILDER | ✦ CREATIVE THINKER |
-|:---:|:---:|:---:|
-| Electrical & electronics, embedded systems, IoT and testing | Prototypes, hardware-software integration and practical problem-solving | Web design, visual storytelling and distinctive digital experiences |
+I’m a 2026 Electrical & Electronics Engineering graduate with an honours degree, drawn to practical engineering and continuous learning.
 
-- 🎓 B.E. & B.E. (Honours) in Electrical & Electronics Engineering — 2026.
-- 🔌 Interested in embedded systems, electronics, IoT, automation and R&D.
-- 🧪 Exposure to electrical testing & commissioning and industrial power systems.
-- 🌱 Learning Linux, SQL and Python-based data analysis; exploring Data Analytics and AI.
+- **Engineering:** Embedded systems, electronics, IoT, automation and electrical systems.
+- **Building:** Microcontroller-based prototypes, sensor integration and hardware–software projects.
+- **Creative work:** Concept development, visual design and AI-assisted web experiences.
+- **Currently exploring:** Linux, SQL, Python for data analysis and Power BI.
 
-## 02 / My toolkit
+I value curiosity, clear thinking and learning by building.
 
-**Code & the web**
+## Technical toolkit
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+**Programming & web**
 
-**Embedded, IoT & engineering**
+![C](https://img.shields.io/badge/C-1D4ED8?style=flat-square&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-1E40AF?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E65A35?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-BB8A00?style=flat-square&logo=javascript&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-4B8BBE?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-284B63?style=flat-square)
-![Keil](https://img.shields.io/badge/Keil-Embedded_Development-007ACC?style=flat-square)
+**Embedded & electronics**
 
-**Build & deploy**
+![Arduino](https://img.shields.io/badge/Arduino-0F766E?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-0F766E?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-0F766E?style=flat-square&logo=espressif&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0E7490?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-2563EB?style=flat-square&logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-334155?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-334155?style=flat-square)
+
+**Tools & workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2563EB?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-334155?style=flat-square&logo=vercel&logoColor=white)
 
-<sub>Learning path → Linux · SQL · Python for data analysis · Power BI · Data Analytics · AI/ML fundamentals</sub>
+<sub>Also exploring: Linux · SQL · Data Analysis · Power BI · AI/ML fundamentals</sub>
 
-## 03 / Things I've built
+## Selected projects
 
-<details open>
-<summary><b>01 — Digital Spirometer & Manometer</b></summary>
+### 01. Digital Spirometer & Manometer
+A respiratory-monitoring prototype combining pressure sensing and microcontrollers, with sensor-data analysis using MATLAB.
 
-A compact respiratory-monitoring prototype using pressure sensors and microcontrollers, with MATLAB-based sensor analysis.
+<sub>Arduino Nano · ESP8266 · Pressure Sensors · MATLAB</sub>
 
-<sub>C · Arduino Nano · ESP8266 · MATLAB</sub>
-</details>
+### 02. IoT-Based Diesel Generator Monitoring
+An ESP8266-based system to monitor generator and KEB supply status and send readings to ThingSpeak.
 
-<details>
-<summary><b>02 — IoT-Based Diesel Generator Monitoring</b></summary>
+**Research paper:** *Diesel Generator (D.G) Monitoring Using IoT for Vulnerability Assessment* — presented at IC3MLA 2025.
 
-ESP8266-based monitoring of generator and KEB supply status, with data sent to ThingSpeak over Wi-Fi. The work was presented as a research paper at IC3MLA 2025.
+<sub>Embedded C · ESP8266 · ZMPT101B · ThingSpeak</sub>
 
-<sub>Embedded C · ESP8266 · ThingSpeak</sub>
-</details>
+### 03. Soldier Health Monitoring — Hackathon Prototype
+A wearable health-monitoring prototype developed during an 8-hour hackathon, featuring vital-sign sensing, display and SOS alert functions. GPS tracking was explored as a project extension.
 
-<details>
-<summary><b>03 — Soldier Health Monitoring & Location Tracking Concept</b></summary>
+<sub>ESP8266 · Sensors · OLED · IoT</sub>
 
-A wearable soldier-health monitoring prototype developed during an 8-hour hackathon, with vital-sign sensing, display and SOS alert features. GPS tracking was explored as part of the project concept.
+### 04. Solar-Powered Smart Irrigation
+A prototype for soil-moisture-based irrigation using Arduino and Bluetooth monitoring.
 
-<sub>IoT · ESP8266 · Wearable health monitoring · Hackathon</sub>
-</details>
+<sub>Arduino UNO · Soil Moisture Sensor · Bluetooth</sub>
 
-<details>
-<summary><b>04 — Solar-Powered Smart Irrigation</b></summary>
-
-Automated irrigation using soil-moisture sensing, Arduino and Bluetooth-based monitoring.
-
-<sub>C · Arduino UNO · Sensors · Bluetooth</sub>
-</details>
-
-<details>
-<summary><b>05 — Personal Engineering Portfolio</b></summary>
-
-A space-inspired portfolio shaped around my own concept, visual direction and project storytelling. Built with HTML, CSS and JavaScript, with AI-assisted development.
+### 05. Creative Engineering Portfolio
+A space-inspired personal portfolio shaped around my own concept, visual direction and project storytelling. Built with HTML, CSS and JavaScript, with AI-assisted development.
 
 [Explore the live portfolio →](https://gagankirthipn-portfoliogithubio.vercel.app/)
-</details>
 
-## 04 / Field experience
+## Experience
 
-- **Testing & Commissioning Trainee — Micron Electricals, Bengaluru:** Electrical measurements, RCD/RCBO checks, insulation and continuity tests, breaker and panel checks, BMS trip testing, SLD interpretation and site coordination.
-- **Academic Intern — Kirloskar Electric Company, Mysuru:** Exposure to transformer manufacturing, switchgear and industrial electrical systems.
+**Testing & Commissioning Trainee — Micron Electricals, Bengaluru**
 
-**Research note:** *Diesel Generator (D.G) Monitoring Using IoT for Vulnerability Assessment* — presented at **IC3MLA 2025**.
+Exposure to electrical testing and site activities, including RCD testing, loop and earthing measurements, insulation checks, breaker and panel operations, BMS trip testing and single-line diagram interpretation.
 
-## 05 / GitHub signal
+**Academic Intern — Kirloskar Electric Company, Mysuru**
+
+Academic exposure to transformer manufacturing, switchgear and industrial electrical systems.
+
+## Education & leadership
+
+**B.E. — Electrical & Electronics Engineering**  
+ATME College of Engineering, Mysuru · 2022–2026
+
+**B.E. (Honours) — Electrical & Electronics Engineering**  
+VTU Centre of Excellence, Belagavi · 2024–2026
+
+Former **IEEE Student Branch Treasurer** and **Vice President of ElectroVision**, the student technical club.
+
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=7AA8FF&icon_color=7CE6D2&text_color=CBD5E1" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=GaganKirthiPN&theme=transparent&hide_border=true&background=00000000&ring=75D9F5&fire=9B8CFF&currStreakLabel=75D9F5" alt="GitHub streak"/>
-
-### Language footprint
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganKirthiPN&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=75D9F5&text_color=DCE6F5" alt="Most used languages"/>
-
-<sub>Language footprint is calculated from code in public repositories — it reflects repository contents, not skill level.</sub>
-
-### Milestones
-
-<img src="https://github-profile-trophy.vercel.app/?username=GaganKirthiPN&theme=onestar&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F766E&icon_color=2563EB&text_color=64748B" alt="GitHub statistics"/>
+<img height="160" src="https://streak-stats.demolab.com?user=GaganKirthiPN&hide_border=true&background=00000000&ring=0F766E&fire=2563EB&currStreakLabel=0F766E" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -135,16 +121,12 @@ A space-inspired portfolio shaped around my own concept, visual direction and pr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75D9F5,50:9B8CFF,100:08111F&height=3&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:2563EB,100:16324F&height=3&section=footer" width="100%" alt=""/>
 
-![Profile views](https://komarev.com/ghpvc/?username=GaganKirthiPN&label=PROFILE%20VIEWS&color=7CE6D2&style=flat)
-
-### Build. Learn. Experiment. Repeat.
+### Build with purpose. Learn continuously. Create something meaningful.
 
 [Portfolio](https://gagankirthipn-portfoliogithubio.vercel.app/) · [LinkedIn](https://linkedin.com/in/gagankirthipn) · [Email](mailto:gagankirthi2004@gmail.com)
 
-**☕ Support my work**
-
-[![PayPal](https://img.shields.io/badge/Support_via_PayPal-315B9A?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GKPN)
+[![Support via PayPal](https://img.shields.io/badge/Support_via_PayPal-2563EB?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/GKPN)
 
 </div>
