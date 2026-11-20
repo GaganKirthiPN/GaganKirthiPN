@@ -19,15 +19,28 @@
 
 ## About Me. 😊
 
-- 🎓 B.E. (Honours) in **Electrical & Electronics Engineering**, 2026 graduate.
+<table width="100%">
+<tr>
+<td valign="top">
+
+- 🎓 B.E. (Honors) in **Electrical & Electronics Engineering**, 2026 graduate.
 - 🔌 Interested in **Embedded Systems, Electronics, IoT and R&D**.
 - ⚙️ Exploring microcontrollers, hardware interfacing and electronic system design.
 - 💻 Working with **C, Embedded C and Python**.
 - 🐧 Currently learning **Linux and SQL**.
-- 📊 Planning to explore **Power BI and Data Analytics**.
+- 📊 Planning to explore **Power BI, Data Analytics** and related technologies.
 - 🤖 Interested in understanding **AI** and its applications across engineering and technology.
 - 📄 Presented a research paper at **IC3MLA 2025**.
 - 💡 Enjoy building projects, experimenting with new ideas and learning across technical domains.
+
+</td>
+<td align="center" valign="middle" width="260">
+
+<img src="./Neon_Tech_Workspace_Pose_Animation.gif" width="240" alt="Gagan Kirthi P N"/>
+
+</td>
+</tr>
+</table>
 
 ## Languages and Tools. 🛠️
 
