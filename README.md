@@ -88,7 +88,19 @@ Implemented embedded C logic for automated irrigation using real-time soil-moist
 
 **Tools:** C, Arduino UNO, soil-moisture sensor, Bluetooth.
 
-### 04 — Personal Engineering Portfolio
+### 04 — IoT-Based Soldier Health Monitoring System
+**Hackathon project | MRIOTHON 2025 | MRIT College of Engineering, Mandya | 8-hour build**
+
+Our team developed a wearable armband prototype to monitor a soldier's vital signs and provide an emergency alert mechanism. The working prototype used an ESP8266 with a pulse sensor, SpO₂ sensor and DHT11 temperature sensor, with an OLED for local readings, rechargeable battery, buzzer, SOS button and LED indicators. Health readings were transmitted to a cloud platform for remote monitoring.
+
+We also tested a GPS tracking module and explored a helmet-mounted solar charging concept, but these were not fully integrated into the completed prototype during the hackathon. GPS-based location tracking, solar-powered helmets and friction-powered footwear remained future development ideas.
+
+The wearable concept also has potential applications in remote health and senior-care monitoring. This project was shared in a LinkedIn post following the hackathon.
+
+**Built prototype:** ESP8266, pulse sensor, SpO₂ sensor, DHT11, OLED, buzzer, SOS button, LED indicators, rechargeable battery and cloud connectivity.  
+**Hackathon:** MRIOTHON 2025 — an 8-hour team prototyping event at MRIT College of Engineering, Mandya.
+
+### 05 — Personal Engineering Portfolio
 A portfolio I conceptualised and designed around a space-inspired visual direction. I shaped the structure, content, project storytelling and visual style, and used AI-assisted coding tools to support implementation. Built with HTML, CSS and vanilla JavaScript, then deployed on Vercel.
 
 [Explore the live portfolio](https://gagankirthipn-portfoliogithubio.vercel.app/)
