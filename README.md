@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,45:172554,100:312E81&height=190&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=42&fontColor=E6ECF8&fontAlignY=38&desc=ENGINEER%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20CREATIVE%20THINKER&descSize=13&descAlignY=60&descColor=7AA8FF" width="100%" alt="Gagan Kirthi P N — Engineer, Builder, Creative Thinker"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:142B4A,100:312E81&height=200&section=header&text=Gagan%20Kirthi%20P%20N&fontSize=43&fontColor=F1F5FF&fontAlignY=37&desc=ENGINEER%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20CREATIVE%20THINKER&descSize=13&descAlignY=60&descColor=75D9F5" width="100%" alt="Gagan Kirthi P N — Engineer, Builder, Creative Thinker"/>
 
 ### Electrical & Electronics Engineer · Embedded Systems · IoT · Creative Web Building
 
@@ -116,18 +116,18 @@ A space-inspired portfolio shaped around my own concept, visual direction and pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=7AA8FF&icon_color=34D399&text_color=CBD5E1" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=GaganKirthiPN&theme=tokyonight&hide_border=true&background=070B14&ring=4F8CFF&fire=FBBF24&currStreakLabel=7AA8FF" alt="GitHub streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganKirthiPN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=7AA8FF&icon_color=7CE6D2&text_color=CBD5E1" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=GaganKirthiPN&theme=transparent&hide_border=true&background=00000000&ring=75D9F5&fire=9B8CFF&currStreakLabel=75D9F5" alt="GitHub streak"/>
 
 ### Language footprint
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganKirthiPN&layout=compact&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=7AA8FF&text_color=CBD5E1" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganKirthiPN&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=75D9F5&text_color=DCE6F5" alt="Most used languages"/>
 
 <sub>Language footprint is calculated from code in public repositories — it reflects repository contents, not skill level.</sub>
 
 ### Milestones
 
-<img src="https://github-profile-trophy.vercel.app/?username=GaganKirthiPN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GaganKirthiPN&theme=onestar&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies"/>
 
 </div>
 
@@ -135,9 +135,9 @@ A space-inspired portfolio shaped around my own concept, visual direction and pr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:070B14&height=3&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75D9F5,50:9B8CFF,100:08111F&height=3&section=footer" width="100%" alt=""/>
 
-![Profile views](https://komarev.com/ghpvc/?username=GaganKirthiPN&label=PROFILE%20VIEWS&color=34D399&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=GaganKirthiPN&label=PROFILE%20VIEWS&color=7CE6D2&style=flat)
 
 ### Build. Learn. Experiment. Repeat.
 
@@ -145,6 +145,6 @@ A space-inspired portfolio shaped around my own concept, visual direction and pr
 
 **☕ Support my work**
 
-[![PayPal](https://img.shields.io/badge/Support_via_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GKPN)
+[![PayPal](https://img.shields.io/badge/Support_via_PayPal-315B9A?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GKPN)
 
 </div>
