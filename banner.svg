@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0630"/><stop offset="0.5" stop-color="#2a0f6b"/><stop offset="1" stop-color="#0a2a7a"/></linearGradient>
+    <linearGradient id="grid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2bd6" stop-opacity="0"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0.9"/></linearGradient>
+    <radialGradient id="planet" cx="0.35" cy="0.35" r="0.8"><stop offset="0" stop-color="#7df9ff"/><stop offset="1" stop-color="#1b4bd6"/></radialGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <g stroke="url(#grid)" stroke-width="1.2" opacity="0.8">
+    <line x1="0" y1="180" x2="1000" y2="180"/><line x1="0" y1="198" x2="1000" y2="198"/><line x1="0" y1="220" x2="1000" y2="220"/><line x1="0" y1="246" x2="1000" y2="246"/>
+    <line x1="500" y1="180" x2="-100" y2="260"/><line x1="500" y1="180" x2="100" y2="260"/><line x1="500" y1="180" x2="300" y2="260"/><line x1="500" y1="180" x2="500" y2="260"/><line x1="500" y1="180" x2="700" y2="260"/><line x1="500" y1="180" x2="900" y2="260"/><line x1="500" y1="180" x2="1100" y2="260"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="150" cy="95" r="42" fill="url(#planet)"><animate attributeName="cy" values="95;103;95" dur="5s" repeatCount="indefinite"/></circle>
+    <ellipse cx="150" cy="98" rx="66" ry="11" fill="none" stroke="#ff2bd6" stroke-width="2" transform="rotate(-18 150 98)"/>
+    <circle cx="860" cy="70" r="24" fill="#ff2bd6" opacity="0.85"><animate attributeName="cy" values="70;62;70" dur="4s" repeatCount="indefinite"/></circle><circle cx="920" cy="150" r="8" fill="#7df9ff"/>
+  </g>
+  <g stroke="#7df9ff" stroke-width="1.5" fill="none" opacity="0.5"><path d="M30 40 H90 L110 60 H180"/><path d="M820 200 H900 L920 180 H975"/><path d="M700 30 H760 L780 50 H840"/></g>
+  <g fill="#7df9ff" opacity="0.7"><circle cx="30" cy="40" r="3"/><circle cx="975" cy="180" r="3"/><circle cx="700" cy="30" r="3"/></g>
+  <g text-anchor="middle" filter="url(#glow)"><text x="500" y="108" font-family="Verdana, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffffff" letter-spacing="3">GAGAN KIRTHI P N</text><text x="500" y="140" font-family="Georgia, serif" font-style="italic" font-size="24" fill="#ff8ae8">Electrical &amp; Electronics Engineer</text></g>
+  <text x="500" y="172" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#cfe9ff" letter-spacing="4">EMBEDDED SYSTEMS  |  IoT  |  ELECTRONICS  |  R&amp;D</text>
+</svg>
